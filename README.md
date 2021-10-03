@@ -1,2 +1,2 @@
 # AR_project
-AR project using unity3D
+games based on Augmented reality using unity3D
